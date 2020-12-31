@@ -1,0 +1,104 @@
+//OUTPUT 1:
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:1
+
+Enter no. of elements:6
+
+Enter tree data:30 10 40 60 80 70
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:4
+
+Preorder sequence:
+60 30 10 40 80 70 
+
+Inorder sequence:
+10(0) 30(0) 40(0) 60(0) 70(0) 80(1) 
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:2
+
+Enter a data:90
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:2
+
+Enter a data:20
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:4
+
+Preorder sequence:
+60 30 10 20 40 80 70 90 
+
+Inorder sequence:
+10(-1) 20(0) 30(1) 40(0) 60(1) 70(0) 80(0) 90(0) 
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:3
+
+Enter a data:60
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:3
+
+Enter a data:30
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:4
+
+Preorder sequence:
+70 20 10 40 80 90 
+
+Inorder sequence:
+10(0) 20(0) 40(0) 70(0) 80(-1) 90(0) 
+
+1) Create
+2) Insert
+3) Delete
+4) Print
+5) Quit
+
+Enter Your Choice:5
+
